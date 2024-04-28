@@ -7,7 +7,7 @@
 - <b>[JPMorgan Chase & Co. - Managing Cybersecurity Within Banking]</b>
 - <b>[PWC - Risk Assessments and Controls Within SOX]</b> 
 
-<h2>Certifications I've Earned</h2>
+<h2>📜 Certifications I've Earned</h2>
 
 - [Google Cybersecurity Certificate(SIEM,SQL,Python,Encryption,etc)](https://www.credly.com/badges/d5d42b0a-de2c-4b93-a206-2ad830c74742)
 - [Cisco Computer Hardware Basics(Device Management)](https://www.credly.com/badges/c11baa8b-fe9d-42cb-9586-feb1e58e2bc2)
