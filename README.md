@@ -2,7 +2,7 @@
 
 <h2>🛠 Vulnerability Management Projects</h2>
 
-- <b>[Vulnerability Management Program Implementation]https://github.com/PaidDues/Vulnerability-Management-Program</b>
+- <b>[Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
 - <b>[Mastercard - Interpret phishing simulation results to create a treaining presentation]</b>
 - <b>[DATACOM - Walkthrough of Service Desk Essentials]</b>
 - <b>[JPMorgan Chase & Co. - Managing Cybersecurity Within Banking]</b>
