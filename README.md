@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Max! <br/><a href="https://www.linkedin.com/in/mdues/">Cybersecurity Professional</a></h1>
+<h1>Max Dues' IT and Cybersecurity Project Portfolio <br/><a href="https://www.linkedin.com/in/mdues/">Cybersecurity Professional</a></h1>
 
 <h2>🛠 Vulnerability Management Projects</h2>
 
@@ -8,7 +8,7 @@
 - <b>[JPMorgan Chase & Co. - Managing Cybersecurity Within Banking]</b>
 - <b>[PWC - Risk Assessments and Controls Within SOX]</b> 
 
-<h2>📜 Certifications I've Earned</h2>
+<h2>📜 Certifications / Continued Education</h2>
 
 - [CompTIA Security+ CE(DoD 8570 requirement)](https://www.credly.com/badges/9b14cc4e-f5df-4e4e-bec6-1dfd862763c9)
 - [Google Cybersecurity Certificate(SIEM,SQL,Python,Encryption,etc)](https://www.credly.com/badges/d5d42b0a-de2c-4b93-a206-2ad830c74742)
