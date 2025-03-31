@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - <b>[PWC - Risk Assessments and Controls Within SOX]</b> 
 
 <h2>📚 Incident Response & Recovery Projects</h2>
-- <b>[Phishing - The incident response & recovery lifecycle regarding a Business Email Compromise of a fictional law firm]</b>
+- <b>[Phishing - Table Top Exercise(TTX) walkthrough of incident response & recovery lifecycle regarding a Business Email Compromise]</b>
 
   
 <h2>📚 Certifications / Continued Education</h2>
@@ -26,6 +26,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [Bleeping Computer - General Industry news](https://www.bleepingcomputer.com/)
 - [CSO Magazine - Insightful Topics From SME](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [The Register - International cyber related events](https://www.theregister.com/)
+- [Dark Reading - Recent Novel Vulnerabilities and Exploits](https://www.darkreading.com/)
+- [Darknet Diaries - Lifecycle Development of Notable Industry Events](https://darknetdiaries.com/)
 
 <h2> 💎 Resources I Recommend</h2>
 
