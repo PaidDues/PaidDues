@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>🕵🏼‍♂️ Vulnerability Management Projects</h2>
 
 - <b>[Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
+- <b>[PII Exposure Via Clipboard Entries - Submitted Disclosure(Sanitized Real-World Case Study)](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/blob/main/PII%20Exposure%20Via%20Clipboard%20Entries(Sanitized).pdf)</b>
 - <b>[Mastercard - Interpret phishing simulation results to create a treaining presentation]</b>
 - <b>[DATACOM - Walkthrough of Service Desk Essentials]</b>
 - <b>[JPMorgan Chase & Co. - Managing Cybersecurity Within Banking]</b>
