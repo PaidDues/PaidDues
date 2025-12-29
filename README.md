@@ -22,9 +22,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [Cisco Computer Hardware Basics(Device Management)](https://www.credly.com/badges/c11baa8b-fe9d-42cb-9586-feb1e58e2bc2)
 - [AttackIQ's Mapping MITRE ATT&CK to CVE for Impact](https://www.credly.com/badges/8093eedf-991c-4d23-b2b3-add36187958e)
 - [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/ab2ce1b3-61fb-4fa5-9c9f-a61dab186da7)
-- CompTIA Cybersecurity Analyst(CySA+) - Expected 2025
-- Red Hat Certified System Administrator(RHCSA) - Expected 2025
-- International Orgranization for Standardization(ISO) Lead Auditor Accreditation - Expected 2025
+- [International Orgranization for Standardization(ISO) Lead Auditor](https://www.credly.com/badges/0ae3f5d0-4d06-479a-90bd-fc4e8d5969be)
+- CompTIA SecAI+ - Expected 2026
+- Red Hat Certified System Administrator(RHCSA) - Expected 2026
+- Certified Information Systems Security Professional (CISSP) - Expected 2026
 
 <h2>🔍 How I Stay Up To Date With The Industry</h2>
 
