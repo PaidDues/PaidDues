@@ -2,14 +2,11 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-<h2>🕵🏼‍♂️ Vulnerability Management Projects</h2>
+<h2>🕵🏼‍♂️ Vulnerability Management and Real-World Disclosure Projects</h2>
 
 - <b>[Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
 - <b>[PII Exposure Via Clipboard Entries - Submitted Disclosure(Sanitized Real-World Case Study)](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
-- <b>[Mastercard - Interpret phishing simulation results to create a treaining presentation]</b>
-- <b>[DATACOM - Walkthrough of Service Desk Essentials]</b>
-- <b>[JPMorgan Chase & Co. - Managing Cybersecurity Within Banking]</b>
-- <b>[PWC - Risk Assessments and Controls Within SOX]</b> 
+- <b>[HIPAA Security Vulnerability Disclosure](https://github.com/PaidDues/hippa-security-vulnerability-disclosure)</b>
 
 <h2>📚 Incident Response & Recovery Projects</h2>
 - <b>[Phishing - Table Top Exercise(TTX) walkthrough of incident response & recovery lifecycle regarding a Business Email Compromise]</b>
