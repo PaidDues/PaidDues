@@ -5,8 +5,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>🕵🏼‍♂️ Vulnerability Management and Real-World Disclosure Projects</h2>
 
 - <b>[Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
-- <b>[PII Exposure Via Clipboard Entries - Submitted Disclosure(Sanitized Real-World Case Study)](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
-- <b>[HIPAA Security Vulnerability Disclosure](https://github.com/PaidDues/hippa-security-vulnerability-disclosure)</b>
+- <b>[PII Exposure Via Clipboard Entries - Submitted Disclosure(Sanitized)](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
+- <b>[HIPAA Security Vulnerability Disclosure - Submitted Disclosure(Sanitized)](https://github.com/PaidDues/hippa-security-vulnerability-disclosure)</b>
 
 <h2>📚 Incident Response & Recovery Projects</h2>
 - <b>[Phishing - Table Top Exercise(TTX) walkthrough of incident response & recovery lifecycle regarding a Business Email Compromise]</b>
