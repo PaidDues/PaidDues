@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - <b>[Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
 - <b>[PII Exposure Via Clipboard Entries - Submitted Disclosure(Sanitized)](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
 - <b>[HIPAA Security Vulnerability Disclosure - Submitted Disclosure(Sanitized)](https://github.com/PaidDues/hippa-security-vulnerability-disclosure)</b>
+- <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/blob/main/Security_Advisory_QR_Code_Overlays.pdf)</b>
 
 <h2>📚 Incident Response & Recovery Projects</h2>
 - <b>[Phishing - Table Top Exercise(TTX) walkthrough of incident response & recovery lifecycle regarding a Business Email Compromise]</b>
