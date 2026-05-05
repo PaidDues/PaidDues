@@ -11,6 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>📚 Incident Response & Recovery Projects</h2>
 - <b>[Phishing - Table Top Exercise(TTX) walkthrough of incident response & recovery lifecycle regarding a Business Email Compromise]</b>
 
+<h2>📚 Security Compliance & Automation Projects</h2>
+
+- <b>[Windows 11 STIG Hardening](https://github.com/PaidDues/STIGS)</b>
   
 <h2>📚 Certifications / Continued Education</h2>
 
