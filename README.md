@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/tree/main)</b>
 
 <h2>🔬 Threat Hunting / Incident Response & Recovery Projects</h2>
-- <b>[Phishing - Table Top Exercise(TTX) walkthrough of incident response & recovery lifecycle regarding a Business Email Compromise]</b>
+- <b>[Unauthorized Interal Tor Browser Usage](https://github.com/PaidDues/threat-hunting-scenario-tor-internal-threat)</b>
 
 <h2>🧰 Security Compliance & Automation Projects</h2>
 
