@@ -6,11 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/tree/main)</b>
 - <b>[Unsecure Sweepstakes Entries - Customer PII Exosure](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
-- <b>(PENDING...) HIPAA Violation - Clinician Credential Exposure</b>
+- <b>(PENDING...) Systemic HIPAA Violation - Clinician Credential Exposure</b>
 
-<h2>🕵🏼‍♂️ Vulnerability Management and Real-World Disclosure Projects</h2>
+<h2>🕵🏼‍♂️ Enterprise Vulnerability Management Projects</h2>
 
-- <b>[Nessus/Tenable Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
+- <b>[Tenable Vuln-Management Lifecycle: From Policy to Verified Remediation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
 
 <h2>🔬 Threat Hunting / Incident Response & Recovery Projects</h2>
 
@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <h2>🧰 Security Compliance & Automation Projects</h2>
 
-- <b>[PowerShell Scripting: Windows 11 STIG Hardening](https://github.com/PaidDues/STIGS)</b>
+- <b>[PowerShell Scripting: Windows 11 DISA STIG Hardening](https://github.com/PaidDues/STIGS)</b>
   
 <h2>📚 Certifications / Continued Education</h2>
 
