@@ -29,7 +29,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/ab2ce1b3-61fb-4fa5-9c9f-a61dab186da7)
 - [International Orgranization for Standardization(ISO) 27001 Lead Auditor](https://www.credly.com/badges/0ae3f5d0-4d06-479a-90bd-fc4e8d5969be)
 - [International Organization for Standardization(ISO) 42001 Lead Auditor](https://www.credly.com/badges/111505ba-b836-428f-ad21-f05d368df2a5)
-- Azure Administrator Associate (AZ-104)  - Expected Spring 2026
+- Azure Administrator Associate (AZ-104)  - Expected Summer 2026
 - Certified Information Systems Security Professional (CISSP) - Expected 2026
 
 <h2>🔍 How I Stay Up To Date With The Industry</h2>
