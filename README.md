@@ -2,11 +2,15 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+<h2>🕵🏼‍♂️ Submitted Responsible Disclosures (Sanitized) & Information Security Advisories</h2>
+
+- <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/tree/main)</b>
+- <b>[Unsecure Sweepstakes Entries - Customer PII Exosure](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
+- <b>(PENDING...) HIPAA Violation - Clinician Credential Exposure</b>
+
 <h2>🕵🏼‍♂️ Vulnerability Management and Real-World Disclosure Projects</h2>
 
-- <b>[Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
-- <b>[PII Exposure Via Clipboard Entries - Submitted Disclosure(Sanitized)](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
-- <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/tree/main)</b>
+- <b>[Nessus/Tenable Vulnerability Management Program Implementation](https://github.com/PaidDues/Vulnerability-Management-Program)</b>
 
 <h2>🔬 Threat Hunting / Incident Response & Recovery Projects</h2>
 
