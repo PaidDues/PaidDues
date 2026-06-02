@@ -15,6 +15,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>🔬 Threat Hunting / Incident Response & Recovery Projects</h2>
 
 - <b>[KQL/MDE Threat Hunt: Unauthorized Internal Tor Browser Usage](https://github.com/PaidDues/threat-hunting-scenario-tor-internal-threat)</b>
+- <b>[32 Flag Threat Hunt: CorpHealth Traceback](https://github.com/PaidDues/Threat-Hunt-CorpHealth-Traceback)</b>
+
 
 <h2>🧰 Security Compliance & Automation Projects</h2>
 
