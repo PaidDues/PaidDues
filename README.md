@@ -5,8 +5,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>🕵🏼‍♂️ Submitted Responsible Disclosures (Sanitized) & Information Security Advisories</h2>
 
 - <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/tree/main)</b>
-- <b>[Unsecure Sweepstakes Entries - Customer PII Exosure](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
-- <b>(PENDING...) Systemic HIPAA Violation - Clinician Credential Exposure</b>
+- <b>[Responsible Disclosure: Unsecure Sweepstakes Entries - Customer PII Exosure](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
+- <b>[Responsible Disclosure: Systemic HIPAA Violation - Clinician Credential Exposure](https://github.com/PaidDues/Sanitized-Responsible-Disclosure-Systemic-HIPAA-Violation-Clinician-Credential-Exposure) </b>
 
 <h2>🕵🏼‍♂️ Enterprise Vulnerability Management Projects</h2>
 
