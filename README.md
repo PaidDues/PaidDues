@@ -7,7 +7,7 @@ The work below reflects that path: responsible disclosures submitted to real org
 <h2>🕵🏼‍♂️ Submitted Responsible Disclosures (Sanitized) & Information Security Advisories</h2>
 
 - <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/tree/main)</b>
-- <b>[Responsible Disclosure: Unsecure Sweepstakes Entries - Customer PII Exposure](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
+- <b>[Responsible Disclosure: Unsecured Sweepstakes Entries - Customer PII Exposure](https://github.com/PaidDues/PII-Exposure-via-Clipboard-Entries-Submitted-Disclosure-Sanitized-Real-World-Case-Study-/tree/main)</b>
 - <b>[Responsible Disclosure: Systemic HIPAA Violation - Clinician Credential Exposure](https://github.com/PaidDues/Sanitized-Responsible-Disclosure-Systemic-HIPAA-Violation-Clinician-Credential-Exposure) </b>
 
 <h2>🛡️ Enterprise Vulnerability Management Projects</h2>
@@ -34,12 +34,12 @@ The work below reflects that path: responsible disclosures submitted to real org
 - [International Organization for Standardization(ISO) 27001 Lead Auditor](https://www.credly.com/badges/0ae3f5d0-4d06-479a-90bd-fc4e8d5969be)
 - [International Organization for Standardization(ISO) 42001 Lead Auditor](https://www.credly.com/badges/111505ba-b836-428f-ad21-f05d368df2a5)
 - Microsoft Azure Administrator Associate (AZ-104) - Expected Summer 2026
-- Certified Information Systems Security Professional (CISSP) - Expected Winter 2026
+- Certified Information Systems Security Professional (CISSP) - Expected Late 2026
 
 <h2>🔍 How I Stay Up To Date With The Industry</h2>
 
 - [Bleeping Computer - General Industry news](https://www.bleepingcomputer.com/)
-- [CSO Magazine - Insightful Topics From SME](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [CSO Magazine - Insightful Topics From SME](https://www.csoonline.com/)
 - [The Register - International cyber related events](https://www.theregister.com/)
 - [Dark Reading - Recent Novel Vulnerabilities and Exploits](https://www.darkreading.com/)
 - [Darknet Diaries - Lifecycle Development of Notable Industry Events](https://darknetdiaries.com/)
