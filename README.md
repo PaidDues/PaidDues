@@ -1,6 +1,8 @@
 <h1> Max Dues | Security Projects and Technical Writeups </h1>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I came to cybersecurity by having to secure my own business first. After co-founding Prime Lot Services and running its IT, I trained into security to address the company's growing exposure, earned my CompTIA Security+, and stepped into the security lead role. Today I work across vulnerability management and security operations through a cybersecurity internship with Log(N) Pacific, and I apply that experience to finding real-world vulnerabilities and documenting them in formal disclosure reports.
+
+The work below reflects that path: responsible disclosures submitted to real organizations, a published security advisory, threat hunts, and a full vulnerability management program. Feel free to look through them.
 
 <h2>🕵🏼‍♂️ Submitted Responsible Disclosures (Sanitized) & Information Security Advisories</h2>
 
