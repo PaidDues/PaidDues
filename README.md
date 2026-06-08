@@ -4,6 +4,14 @@ I came to cybersecurity by having to secure my own business first. After co-foun
 
 The work below reflects that path: responsible disclosures submitted to real organizations, a published security advisory, threat hunts, and a full vulnerability management program. Feel free to look through them.
 
+<h2>⚙️ Tools & Technologies</h2>
+
+- **Vulnerability Management:** Tenable Nessus, CVSS, CVE/CWE analysis
+- **SIEM, EDR & Threat Hunting:** Microsoft Sentinel, Microsoft Defender for Endpoint, Microsoft Defender Advanced Hunting, KQL (Kusto Query Language), MITRE ATT&CK, Diamond Model
+- **Cloud & Infrastructure:** Microsoft Azure (Virtual Machines, Entra ID, NSGs, Azure Policy), Active Directory, Group Policy
+- **Scripting & Automation:** PowerShell, DISA STIG hardening automation
+- **Frameworks & Standards:** NIST 800-53, NIST 800-37 (RMF), NIST CSF, NIST SP 800-61, ISO/IEC 27001, ISO/IEC 42001, HIPAA, SOX
+
 <h2>🕵🏼‍♂️ Submitted Responsible Disclosures (Sanitized) & Information Security Advisories</h2>
 
 - <b>[Security Advisory - QR Code Overlay Attack](https://github.com/PaidDues/Security-Advisory---QR-Code-Overlay/tree/main)</b>
