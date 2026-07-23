@@ -41,6 +41,7 @@ The work below reflects that path: responsible disclosures submitted to real org
 - [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/ab2ce1b3-61fb-4fa5-9c9f-a61dab186da7)
 - [International Organization for Standardization(ISO) 27001 Lead Auditor](https://www.credly.com/badges/0ae3f5d0-4d06-479a-90bd-fc4e8d5969be)
 - [International Organization for Standardization(ISO) 42001 Lead Auditor](https://www.credly.com/badges/111505ba-b836-428f-ad21-f05d368df2a5)
+- [International Organization for Standardization(ISO) 27701 Lead Auditor](https://www.credly.com/badges/757765da-7722-40e2-9233-3b41900146e6)
 - Microsoft Azure Administrator Associate (AZ-104) - Expected Summer 2026
 - Certified Information Systems Security Professional (CISSP) - Expected Late 2026
 
