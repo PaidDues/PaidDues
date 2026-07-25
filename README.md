@@ -56,6 +56,7 @@ The work below reflects that path: responsible disclosures submitted to real org
 <h2> 💎 Resources I Recommend</h2>
 
 - [Cisco's Skills For All learning platform(help desk skills, network config, ethical hacking)](https://skillsforall.com/catalog?category=course)
+- [Antisyphon Training](https://www.antisyphontraining.com/)
 - [CDSE Security Awareness Hub(DOD Cybersecurity training)](https://securityawareness.usalearning.gov/)
 - [TryHackMe.com(learn Linux, SOC skills, and cybersecurity tools like Splunk)](https://tryhackme.com/)
 - [100 Days of Code: The Complete Python Pro Bootcamp(100 projects/100 days)](https://www.udemy.com/course/100-days-of-code/)
